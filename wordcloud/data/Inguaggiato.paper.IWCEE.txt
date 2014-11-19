@@ -1,0 +1,406 @@
+Vulnerability of communities’ social structure to elite capture.A case study of agrarian reform settlements in Northeast Brazil
+
+Abstract
+    The architecture of communities’ social structure can be represented as the overlap between the multiple social networks that connect households that reside in those communities.Three are the main scenarios: 1) complete overlap between multiple social networks,2) partial overlap,3) complete segregation where the different social networks share no common arena.
+    In communities,characterized by complete segregation or complete overlap,previous literature shows that participatory development interventions will benefit only one specific group and the rest of the population will experience no change.Such phenomenon is referred as elite capture.I argue that participatory development interventions,are de-facto mirrors of social networks’ structure they encounter,as they build their organizational foundations on local knowledge and therefore on local power.
+This research focuses on three villages created by agrarian reform in Northeast Brazil,sampled because of different processes of village creation.Before the agrarian reform of Mid-1990s these villages were factory towns of sugar cane plantations.The scenario of complete segregation can represent the social structure of factory towns because of labor organization.This paper aims at showing how social networks features are associated with villages’ formation histories and how the three villages vary in terms of overlap between different social networks.The main idea is that a social structure that resembles the scenario of partial overlap can be considered,as proxy of change and it is the result of a new organization of labor.
+    Keywords: social structure,elite capture,participatory development,homophily,cross-cutting ties
+1.1	Introduction
+    Participatory development has become a central issue in development discourse since late 1980s.After the failure of structural adjustment programs,a large number of actors have been supporting the creation of rural local organizations,in Sub-Saharan Africa and Latin America.Authors promoting such approach (Chambers 1983) claim that the creation of institutions that are based on community are key to introduce change.
+    Previous studies showed the vulnerability of participatory development to elite capture and their risk to introduce no change in the context where they operate (Mansuri and Rao 2004; De Wit and Berner 2009).Several participatory development interventions empowered the already leading elites (Cooke B.and Kothari U.2001).
+    “Participatory approaches have been increasingly criticized for being prone to elite capture (Cooke & Kothari,2001; Fritzen,2007; Kumar,2002; Labonte,2011; Mansuri & Rao,2004; Platteau,2004; Platteau & Abraham,2002; Ribot,2004).The criticism has highlighted that communities are stratified along lines of wealth,class,ethnicity,gender,political affiliation,livelihood strategy,religion,and
+/or norms,and that elites within them tend to capture participatory initiatives for their own benefit and at the expense of non-elites” (Lund,Saito-Jensen 2013,p.104).
+     The main explanation for this failure is a poor understanding of how power and social agency operate.“Behavior and institutions to be analyzed are so constraint by ongoing social relations that construe them as independent is a grievous misunderstanding” (M.Granovetter 1985,141–142).Francis Cleaver,focusing on the social “embeddedness” of agency and decision making,argues that the main reasons for failure of participatory development is “overoptimistic notion of agency,combined with romantic ideas about groups and institutions” (Hickey S.,Mohan G.2004,271).
+    Network theory developed several methodologies to analyze social relations and how they influence behavior and outcomes.The concept of social structure describes the relational system among actors.Furthermore it portrays the membership in social units or contexts,such as schools,villages and neighborhoods (Entwisle et al.2007).Every actor is embedded in social relations that can be represented as networks.Actors are the nodes of the network.The social relations,such as friendship or kinship,which connect nodes in a network,are defined as edges or ties.Nodes have socio-economic characteristics,such as gender,income,status,that are defined as attributes.Nodes’ attributes are important in the study of social networks.
+    A network is a complex structure that can be analyzed according to several perspectives that describe the network overall characteristics,the position of nodes in the network and the presence of local configurations.This latter concept portrays how attributes and position of nodes influence the presence of ties.There is interdependence between actors network position and agency.
+    The theory that drives this research was developed to explain rebellious groups’ ability to be adaptive to change (Parkinson 2013a; Parkinson 2013b).Adapting this theory to the most important problem of participatory approaches that is elite capture,it possible argue that communities vulnerability to elite capture depends on how multiple social networks that connect households that live in those communities overlap (Figure 1).
+    A social network structure where different networks do not overlap completely (scenario P) favors a better adaptation if compared with the total overlap between different social networks (scenario O) or with the total lack of overlap between different social networks (scenario S) (Parkinson 2013a; Petersen 2001).
+    
+Figure 1 Scenarios of networks’ overlap
+ 
+    
+    This research focuses on three villages created by agrarian reform in Northeast Brazil.The three villages are part of the same municipality and they are exposed to the same policy interventions: 1) agrarian reform and 2) the creation of a producers’ cooperative.Instead the organizations that recruited,organized settlers in the village were different.
+    This paper analyzes the social networks that define the social structure of the three villages and shows how social networks features are associated with villages’ formation histories,how the three villages vary in terms of overlap between kinship and family farming networks.
+    Before the agrarian reform of Mid-1990s these villages were factory towns of sugar cane plantations.The scenario of complete segregation represents the social structure of factory towns because of labor organization.The main idea is that a social structure that resembles the scenario of partial overlap can be considered,as proxy of change and it is the result of a new organization of labor.
+    The agrarian reform and the creation in the municipality of a producers’ cooperative aimed at promoting a shift from agricultural production based on plantation system to households as unit of production to family farming.The use of the term “family farming” has been chosen to identify a different economic activity from previous sugar cane plantation system.Households are the main production unit of farming activities in the villages.  
+    In the context investigated,family-farming employment describes the working relation between small farmers and his fellow villagers,not a contract with a large company.The relationship between employer and employee is a face-to-face relation that creates new opportunities for social interaction among villagers.The employer,sharing farming knowledge with his workers,can promote the spread of farming knowledge in the village.
+    Villages created by agrarian reform (Projetos de assentamentos da reforma agraria) represent an opportunity to create new rural spaces (Bergamasco 1997).They are a novelty in Brazilian rural areas as they create spaces where residency and property coincides (Wanderley 2000).The innovative element of Brazilian agrarian reform is not only access to land but also the mobilization of a large number of people from different parts of the country and with heterogeneous backgrounds.
+    Family farming can favor the creation of rural spaces with an autonomous social identity.The presence of a complex system of ties inside villages can be interpreted as a proxy of villages’ autonomy.The research therefore analyzes intra-village ties to understand if social and economic reproduction functions take place mostly inside villages.
+    The hypothesis is that family farming is an economic activity that creates crosscutting ties among households in the villages studied.Households,having family farming as main livelihood strategy,are more likely to be linked in the frequent contact network.Moreover,family-farming employment creates non-overlapping ties between households.Households that produce more crops need to hire more labor and often they hire households with whom they have no other ties or share few or no common attributes.
+    This theoretical perspective complements previous researches that mostly aimed at analyzing directly what are the drivers of participation in CBOs or of innovation adoption.  The most important difference from previous study is to map the networks that connect all households in the villages and not to focus only members of CBOs.This choice led also to the use of a different quantitative model that is specifically designed to analyze whole networks: Exponential Random Graph Models.
+    1.2	Innovative aspects: focus on multiple social networks
+    Development studies have investigated the role of social influence on outcomes in agrarian societies.The main focuses in this stream of literature are 1) group formation (Fafchamps M.,La Ferrara E.2012),2) drivers of participation and exclusion (Arcand and Fafchamps 2012) (A.Barr,Dekker,and Fafchamps 2010b),3) effects of network structure in shaping economic and social outcomes (Marcel Fafchamps 2006; Jaimovich 2013; Jaimovich 2011),4) CBOs as drivers of innovation adoption (Bandiera and Rasul 2006),5) network variability in a sociological perspective (Entwisle et al.2007),6) network architecture with an economic approach (Krishnan and Sciubba 2009).
+    This paper argues that the issue in participatory approaches is not only what makes some participate and others not (also for the issue of impossibility to discriminate between selection and influence) but it is more about what creates the social structure of connections among the households and how the cooperative is able to interact with this system.
+    Participatory approaches’ challenges relate more to what can be referred as organizational invention (Padgett and McLean 2006a).To introduce a new economic activity,such as family farming,it is not only necessary to make some people participate in the project but rather to use the existing social structure to promote organizational transformation.The question is how the cooperative,with his actions,shapes the network form of households’ interaction,both by sustaining a specific activity,such as family farming.
+    The main argument is that producers’ cooperatives,that are community-based organizations,are de-facto mirrors of social networks’ structure that they encounter,as they build their organizational foundations on local knowledge and therefore on local power.The strong risk of these organizations is to simply replicate existing structures and to benefit only one specific group that it is usually also the most central.The main two risks are on the one hand elite capture,that means that the beneficiaries of the innovations are also the most central in the network,and on the other hand segregation patterns,that means the lack of connections among different groups (McPherson,Smith-Lovin,and Cook 2001).
+        Therefore the main argument is that communities,where there are development intervention,such as the creation of producers’ cooperatives and the agrarian reform,are less vulnerable to elite capture the communities’ social structure is characterized by the presence of non-overlapping ties.The presence of non-overlapping ties,that create bridges between homophilous groups,can hamper elite capture.
+    This research aims at complementing extant research adopting a different network theory approach namely network theory of organizations.Furthermore it uses a different model to test for the presence of relevant differences in the overlap between multiple social networks.These elements imply both a different conceptualization of the research problem and a different model definition and specification.
+    In development economics,the main references in terms of model specification are the dyadic regression model (Fafchamps M.and Gubert F.2007) and network formation model (Jackson and Wolinsky 1996).The starting assumption in these studies is that inclusion and exclusion dynamics are essentially based on individual characteristics or synthetic network variables.Starting from this assumption authors tend to use synthetic network variable to present network feature and then to insert them into linear models.They therefore look for individual factors that increase the likelihood of households to participate and
+/or to adopt the innovation but they do not consider the local structure of interdependencies in which households are embedded.Arcand and Fafchamps focused the analysis of formation and composition of CBOs (Arcand and Fafchamps 2012) and Krishnan and Sciubba instead focuses network architecture of labor-sharing arrangements (Krishnan and Sciubba 2009).
+    The study carried out by Barr and others (A.Barr,Dekker,and Fafchamps 2010a),despite sharing a series of common research setting and partially research questions,differs from this research for a series of factors.The main objective of Barr’s article is to identify what common traits are more likely to influence membership and co-membership in CBOs present in fifteen re-settlements created by Zimbabwean government.Furthermore the authors use a longitudinal dataset on households’ affiliations in CBOs and other organizations.They use in fact panel interview to reconstruct the organizations to which the households belonged.
+    In this research instead a comparative approach is used to disentangle the difference social networks across villages.Furthermore bigger attention is devoted at identifying the social basis of frequent meeting among households,captured by the frequent contact network,using not only survey but also participant observation.
+    The aim of the analysis developed in this paper is to describe multiple ties that connect the households (nodes) in the villages,to identify groups and to understand what are the forms of brokerage that connect groups.For each village all the households of permanent residents have been interviewed collecting both attributes and social,economic and kinship ties among them.
+    1.3	Quantitative data analysis: Exponential Random Graph Models
+    The study of social networks focuses on the characteristics of the networks (descriptives),and on the identification of local configurations that define network formation as well as on the influence of social networks on behavior (social influence).
+    A network is composed of a set of actors (nodes) that are connected by relations (ties or edges).Two nodes in a network connected by a tie constitute a dyad and three nodes connected by a tie are a triad.
+    Networks can either portray the ties of single actors (also referred as egos) (egocentric networks)  or instead ties among all nodes in a given social space (whole networks) .This research analyzes whole networks and the village represents the network boundary.
+    Networks can either be directed or undirected.Directed networks show what is the direction of a tie between node i and node j.The tie is symmetrical (or reciprocated) when both nodes refer to have a relationship with the other.The tie is asymmetrical from node i to node j when only one nominates the other.In the ‘‘undirected’’ network,a tie between i and j is either present or absent.
+    Networks’ descriptives are the overall characteristics of the networks such as size,degree,density,average path length,average degree and number of isolates.Network size is the number of vertices or nodes in the network (N).Isolates are nodes with no-connections.The degree in an undirected network measures the number of alters with whom ego is connected.The average degree is the mean of the number of ties that each ego has.In a “undirected” network with number of nodes (N),the density ( L
+/((N(N-1))
+/2)) is defined by the ratio between the observed ties in the network (L) and the number of possible ties.  The geodesic distance is the shortest path between two nodes.
+    The analysis of networks’ formation focuses on local network configurations or network structures that are considered as forces behind network formation.Clustering,centralization and homophily are among the most important social forces.Homophily capture the tendency to create ties with others that share similar traits.It is considered to be one the main mechanisms behind network formation (McPherson,Smith-Lovin,and Cook 2001).Clustering or closure is the propensity to form ties with other nodes with which nodes already have ties in common.Centralization (Freeman 1978) is tendency of nodes to form links with other nodes that already have a high number of ties.
+    ERGMs are a class of statistical models for social network analysis that are designed to enable the recognition of these social processes or forces,which can be considered the structural signature of the network (J.Scott and Carrington 2011).ERG models allow generating networks based on local properties that are specified in the model.
+    ERGMs,also referred as p* models (Robins et al.2007) (Anderson,Wasserman,and Crouch 1999)(Frank and Strauss 1986) (Pattison and Wasserman 1999),are designed to observe social networks,which are the dependent variable,at one point in time.They are “tie-based models for understanding how and why social network ties arise” (Lusher,Koskinen,and Robbins 2013,9).They aim at identifying which forces can explain why we observe the specific network under analysis.
+        ERGMs are theory driven models,therefore when a researcher decides to use a specific local configuration is implicitly adopting a certain theory.
+    The frequent contact network,which is the network that I aim at modeling,as any network,can be represented by a random graph.Its main characteristics are being constituted by a set of nodes n and dyads m and having a specific density (Erdos and Rényi 1959).The presence of ties,also referred as edge or link,in a dyad is represented by Yij
+=1 and absence in nodes in a dyad is represented by Yij
+=0.The presence of a tie in the network,in the case analyzed,means that the households (nodes) meet frequently to talk.
+    ERGMs have similarities with logistic regression models,as they allow estimating the log odds of new a tie occurring in the network for each of the configurations specified in the model,but they go beyond logistic regression as they allow for dependence among observations.
+    ERGMs model the probability that a random network Y is realized by an observed network y as indicated by the following equation.
+    Pr?(Y=y)=1/c  exp?(?_(k=1)^K???_k z_k (y)?)
+    zk(y) are the model covariates of any K local configuration of the graph that are hypothesized to affect the presence of ties in the network .The most commonly used local configurations are centralization,clustering,homophily,density and in the case of directed graphs also reciprocity and sender and receiver effects.?k is a vector of statistical parameters that will be estimated by the model.c is a normalizing constant that allow the probability calculated by the model to sum to 1.
+    A positive value of the coefficient ?k signals a positive effect of a specific network statistic in the formation of ties,while the opposite sign means that these configurations tend to hamper the formation of ties.(O’Malley and Marsden 2008,245).
+    The main local dependence structures at edge level are Bernoulli graphs,dyadic dependence,and Markov random graphs.
+    Bernoulli graphs (Erdos and Rényi 1959) assume that edges in a network are independent and that the presence or absence of ties,indicated by a probability ?,is fixed for all edges (“homogeneity assumption”): ? 
+=  where ? is the density or edge parameter.
+    Dyadic independent models instead are based on the assumption that “a tie from person i to person j is independent from a tie from person j to person i.  Hence the model is no longer a model for ties in the network but for pairs of ties in the network,and the pairs of ties are called dyads” (Lusher,Koskinen,and Robbins 2013,56)
+    Markov random graphs are based on the assumption that “there is a fixed number of nodes and that edges between disjoint pairs of nodes are independent conditional on the rest of the graph.Two edge indicators {i,j} and {i’,k} are conditionally dependent if {i,j} 
+? {i’,k}.” (T.A.Snijders 2002,3).The first models of Markov random graphs were developed in the Eighties (Frank and Strauss 1986) proposed as a possible way to model dependence between edges both in directed and undirected graphs.
+    Estimates in the Bernoulli dependent and dyadic independence assumption are made with Maximum Likelihood Estimation (Lehmann and Casella 1998).Instead,in models that include dependence structures,the coefficients are estimated using Markov Chain Monte Carlo Maximum Likelihood Estimation (MCMCLE).
+    The simplest ERGMs are defined by specifying the number of edges or the number of isolates in the model.
+        Density,in ERGMs models,captures the frequency of interaction in the network.It is the effect that incorporates the number of edges or links in a network.The parameter edges  measures for the overall probability of a link in the network.
+        Edge covariate  coefficient measures the likelihood of a tie to form in the dependent network given a tie in the covariate network (Morris,Handcock,and Hunter 2008,6).Edge covariance allows testing for the presence of a joint effect between several networks.This effect is considered important when it is considered that there is no temporal dependence between the networks observed.
+    Centralization,which is the tendency of nodes to form links with other nodes that already have a high number of ties,is captured in ERGMs by the parameter alternating k-star but also by a new parameter geometrically weighted degree (Hunter and Handcock 2006).Geometrically weighted degree  is a degree distribution term that represents the frequency distribution for nodal degrees where each node counts only once.It helps to model the degree distribution geometrically weighted degree distribution equivalent.A positive coefficient signals the presence of a centralization pattern.
+Clustering effect is the propensity to form ties with other nodes with which nodes already have ties in common.This effect in ERGMs is captured by two shared partners statistics Geometrically Weighted Edgewise Shared partners (GWESP) and Geometrically Weighted Dyadic Shared partners   (GWDSP) (T.A.B.Snijders et al.2006) (Hunter 2007).The positive coefficient for the GWESP term is an evidence of transitivity in the undirected network.It represents an alternative term for the alternating k-triangle statistic.It accounts for the number of common neighbors.(O’Malley and Marsden 2008,252).The GWDSP is very similar to the previous term but it focuses on the number of dyads that the same neighbors whether they are connected by a tie or not (Hunter et al.2008,12).
+    Among the several possible model specifications,I have decided to focus on homophily effects.The analysis of homophily effects is consistent with the literature in development economics where authors’ use shared attributes to predict membership in groups or risk sharing (Arcand and Fafchamps 2012).
+    The use of ERGMs allows increasing the robustness of the results and controlling for other local structures that go beyond the dyadic level,namely the tendency for centralization and clustering.The effect of homophily can be reduced by the tendency to form ties with nodes with which they share common ties,i.e,an indicator of closure (“friends of friends tend to be friends”).
+    ERGMs not only combines all the properties of the dyadic regression model à la Gurbert and Fafschamps (Fafchamps M.and Gubert F.2007) but also allows identifying what are the forces that generate the network we observe,such as the presence or the absence of transitivity and dyadic dependence which are very frequent phenomena that you cannot control for in dyadic regression.
+    In dyadic regression models,the presence of dependence in observation is only captured by auto-correlation in the standard errors but such dependencies are not explicitly modeled.It is also possible to specify the model including a series of network configurations that trigger network formation besides homophily such as centralization,clustering,density and edges co-occurrence which are not possible to include in dyadic regressions.
+    The tendency to create ties with similar others (homophily) is crucial as it is related to the major risk of Community Based Organizations (CBOs) that is to become the mirror of existing social structure.
+    The main idea is that if there are only few node attributes or edge covariance that make people communicate and homophily is the social process that drives interaction among households,it is very likely that only one group will benefit from CBOs action and the rest will be excluded.The result of these social forces will therefore more likely be no change in the context of intervention or rather an increase of inequality.
+    Homophily can therefore be one of the reasons of elites capturing of the community-based organizations and the presences of brokering ties across groups hamper such phenomenon.I define groups as those nodes that share the same ties or the same attributes.Namely a clan is a completely connected graph or a clique where the link is defined by kinship.Nodes that have the same geographical origin or work for the same household can compose other types of groups.
+    The process of ERGMs construction implies six steps.The first is the definition of ties in a network as random variables.The second defines the presence of local social processes that are assumed to generate ties in the network such as homophily,transitivity or others (Robins et al.2007,178).The third is the specification of the model with network statistics that describe tie generator mechanisms such as density,triangles or two-star,and three stars.The fourth is the simplification of parameters due the homogeneity assumption .The fifth is the estimation of model parameters.The sixth is Goodness of Fit Estimation (Hunter,Goodreau,and Handcock 2008).
+    The estimation of parameters is based on Markov Chain Monte Carlo Maximum Likelihood Estimation (MCMCMLE).The model simulates a range of possible networks distributions starting from some parameters values that are constantly improved by a process of iteration based on the Metropolis-Hastings or Gibbs algorithm (Hunter,Goodreau,and Handcock 2013).The procedure,starting from the set of parameters specified,simulates a distribution of graphs.It then compares the simulated distribution of graphs with the observed graph.The objective of the iteration process is to find the parameter estimate for which the observed graph is central in the distribution.The process of iteration stops when the parameter estimates stabilize (Lusher,Koskinen,and Robbins 2013).
+    The goodness of fit statistics (GOF) gives a measure,both graphical and statistic,of the similarity of the simulated network to the observed one.If the networks generated by properties specified in the model produced estimates that are around the mean of the observed network we can argue that the observed network is well represented by the model.GOF also allows showing whether the model is able to replicate the graph distribution that were not explicitly model by the parameters specified in the model.
+    The analysis Markov Chain Monte Carlo (MCMC) diagnostics aims at showing whether the model converged and whether there are degeneracy problems .To inspect model convergence two are the main graphical tools: traceplot and density plot.In traceplots,successive iterations are plotted against their corresponding parameter draws.They allow inspection of the process of iteration and in particular to highlight steps where convergence proved more difficult,which indicates bad mixing.
+    ERGMs can be estimated both in the software Mpnet (Pattinson et al.2012) and by the package statnet (Handcock et al.2003) implemented in R software.The analyses presented in chapter four are estimated with statnet R package.
+1.4	Sampling definition
+    Different social movement mobilizing households impacted several dimension of villages’ composition and organization.The three organizations recruiting households in the three villages differed: 1) in recruiting techniques,2) in the way they set the rules to define households who can have access to land after a period of occupation,3) in the spatial organization of the settlement,4) in the way they choose the political representation of settlers and in the ability to negotiate with local and national authorities.
+        Village A has 102 households living constantly in village,two out of village for health reason and six households that have abandoned their plot.The village is organized as casa no lote and it located 23 km away from the main road.  
+    Village B has 38 fixed residents households and 4 households that come just from time to time to take care of their plots.The village is organized as agrovila and it is 5 km away from the main road.
+    Village C has 40 fixed residents households but it was not possible to interview 3 of them.The village is organized in two agrovilas and some houses on the plot.It is 18 km away from the main road.
+    The unit of analysis is the household.This choice is consistent with studies,that dealt with the same topic,carried out in agrarian societies of developing and emerging countries (Entwisle et al.2007),(Krishnan and Sciubba 2009),(Banerjee et al.2012),(Jaimovich 2011).In such contexts the household is considered to be the unit of production and the fundamental social unit.Members of the households are all of the people that live in the same dwelling.
+    1.4 Model specification
+    The overall hypothesis that is tested in this sub-section is that the three observed frequent contact networks of the three villages are based on different social processes are the result of different villages’ histories.
+    Two main important elements differentiate villages’ histories.The role of kinship,as in village B,MST defined a specific number of households that could be linked by kinship in the same settlement,and while in the two other villages there were not such limitations.The presence of different shared attributes that are ties-generator mechanisms and that are derived from different recruitment patterns.
+    The main possible reasons for establishing contacts that are considered in this analysis are the following: kinship,geographical origin,being arrived during the same migration wave,attending the same church,and going to the same political parade.In villages B and C,villagers had no time to get to know each other before occupation as MST and CPT were extremely fast in the process of mobilizing people; by contrast,the association organizing people in village A allowed for better knowledge of people before occupation.
+    For each village,I estimate a model that analyzes the effects of particular network configurations on the presence of ties in the frequent contact network among households: 
+     logit ? Pr??? (X_ij ?=1|?)=log??? Pr??? (X_ij ?=1|?)
+=log?Pr??(? Pr??? (X_ij ?=1?|?))/(? Pr??? (X_ij ?=0?|?) )?  ?
+=?_1 z_1ij+?_2 z_2ij+?_3 z_3ij+?_ij  
+    
+    The dependent variable is the probability of a new tie occurring in the network.The predictors are three vectors of network configurations zn: sociability (edges ),uniform homophily (nodematch ),and edge covariance (edgecov ).In ERGMs the coefficients represent the effect of each network configuration on the log odds of a new tie occurring .
+    Three steps have been followed in order to identify the presence of different tie generator mechanisms namely homophily on node attributes and edge covariates.Moreover this procedure allows to identify is family farming is a tie generator mechanism.Each model is estimated separately for each village.
+    Several bivariate models that have as predictors in the model (network configurations) are edges plus the effects described above.The aim of this model specification is to understand what network configurations have an effect when inputted alone and to identify the direction and size of each effect singularly.
+    Multivariate full models with all the network statistics whose effects have been tested in single bivariate models.The hypothesis is that some network statistics are redundant with respect to others.This model allows identifying the most important network configurations.The full model estimates’ results show that the most important network configurations are edge covariance on kinship and homophily on origin and migration wave.
+    1.5	Bivariate models results
+
+    Table 1 reports the results from the bivariate models and shows the coefficients,standard errors,and levels of significance of all network statistics specified in the model.For significant parameters the odds ratio have been included in order to make clearer which parameter has the strongest effect.
+    The table 1 does not show the effect of edges for each of the bivariate models,as they are all significant and negative.The negative sign of the edges parameter means that there is an overall tendency to refrain from building ties.The frequent contact networks of the three villages have in fact a low density.The decision to show only homophily effects’ and edge covariance effects’ estimates allows visualizing the comparison among the different villages.
+    The similarities that households can share have been classified in six typologies of characteristics: 1) settlers' attributes from the past,2) villages’ formation attributes,3) social activities in the village,4) hierarchy indicators,5) activities outside the village and 6) covariate networks.
+        The comparison of the total number of significant parameters across villages shows that village A has a larger number of network statistics that are significant: in total ten homophily effects and three edge covariance effects.Village B and village C have a smaller number of parameters that are significant being respectively seven and nine.In village C three out of nine parameters are edge covariates.In village C households are more likely to have frequent contact when they have another type of relation than when they share similar characteristics (homophily).
+    The results of the model show the presence of several differences across villages in significant networks configuration.In village A there is plurality of significant network configurations that refer to all of the categories of attributes referred.In contrast in the other two villages these homophily effects are not significant.In village B and C significant homophily effects refer to participation in social and economic activities in the village.
+        In village B there are few significant effects and most of refer to migration patterns in the village while no households’ characteristics from the past are significant.Participation to strikes and protest acts represented during village creation process an important factor of socialization between households.Both participation to the same political parade and village president are significant homophily effects.The other significant homophily effects describe activities inside the village,which are a female association and having sold the same value to the cooperative.These activities however are related,as many of the members of the female association are also cooperative’s members.
+    In village C the two only positive and significant homophily effects describe common activities inside the village namely participation in village football team and in the catholic congregation.All other significant homophily effects have negative signs meaning that sharing those characteristics hampers the creation of new ties.Furthermore sharing other common ties is an important mechanism that predicts the probability of a tie in frequent meeting network.
+    In both village B and C the predictors that describe households’ engagement in cooperatives’ activities (value sold to coop in 2011 and average production sold to the cooperative 2007-2012) are significant parameters.However,the negative sign of the coefficients indicate that this is probably an indicator of hierarchy rather an indicator of equality.The majority of villagers do not belong to the cooperative therefore this negative sign is mostly capturing how the non-participation to the cooperative influence the probability of a tie.
+    The only effect that is significant in all three villages is being engaged in family farming in 2012.This network statistic portrays the higher probability of households to be frequently meeting when they share family farming as livelihood.However while in village A and B family farming has positive coefficient,in village C the coefficient is negative.In village C the coefficient of the parameter of edge covariance in family farming has a positive sign; it can be interpreted as the presence of more interaction related to a hierarchical process such as working for another households (work for network),rather than a interaction between peers.
+Table 1 Bivariate village models estimated coefficient of frequent contact network
+ 
+Coefficients significance codes: p value<0.001 ‘***’ p value =0.001 ‘**’ p value =0.01 ‘*’ p value = 0.05 ‘.’ 
+1.6	Full model results
+    The second step of the analysis is specifying the model with all network statistics that have been tested singularly in the bivariates models in table 2.
+    A correlation analysis on the variables describing homophilous traits (Appendix 1.8) has been performed to control for possible multicollinearity.The two pairs of variables with a correlation higher than 0.6 with each other in the three villages are: 1) employment sector at survey time and engaged in family farming,2) average production sold to coop 2007-2012 and value sold to coop in 2011.
+    A sensitivity analysis on the effect of omitting highly correlated variables (reported in Appendix 1.10) led to a finer selection of the network statistics: in village A and C employment sector at survey time and average production sold to the cooperative in the period 2007-2012 have been removed.In village B three variables (namely employment sector at survey time,average production sold to the cooperative in the period 2007-2012 and production sold to the cooperative in 2011) have been omitted in the full model.
+    Furthermore in all three models the variables number of workers hired and number of households for which they work were omitted in the full model because these two aspects are already captured by the edge covariate terms describing family farming employment network.By introducing both terms in the model it is possible that this could introduce multicollinearity problems.
+    Table 2 shows the full model estimates and standard errors for the network statistics and the odds ratio only for the parameters that are significant.As expected,in the three villages,the number of significant network statistics decreases significantly from the bivariate model presented in table 1.3.In village A and B it decreases by more than 50% passing respectively from 13 to 7 and from 7 to 3 significant effects,while in village C it decreases from 9 to 4 significant effects.This result confirms the redundancy of some network statistic which effect is already captured by others.
+    In village B and A,the estimate of nodecov "village office" was significant in the bivariate model and keeps its significance also in the full.Furthermore the value of the estimate does not change significantly.The positive sign indicates that the probability of a tie is higher when both households had an office or when at least one of the two had an office in the village.Given the very few number of households that had an office in the village (in total maximum 4),the probability of a tie between two households is higher when at least one of the two has or had an office in the village.
+    Table 2 shows that in village A there are more network statistics with positive and significant coefficients,seven in total.This implies that,in this village,there are more shared households attributes’ that generate ties in the observed network.In village A the traits that result significant that have significant homophily effects are the following: attending the same village church,having the same geographical origin,having had the same previous employment before moving to the village.Furthermore the presence kinship and family farming employment ties increase the probability of tie formation in the observed network.
+    Most homophily statistics relating to attendance of religious functions lose their significance in the full model in village A,with the exception of evangelical church 2,which keeps its significance.As described earlier evangelical church 2 is a very specific congregation,which is smaller and has both a specific geographic and group focus.The fact that keeps its significance can be interpreted as the fact that sharing such characteristic is a mechanism to create ties which effect cannot be described by others.
+    Migration wave network statistic loses significance,probably because its effect is partially captured by migration origin.Several people that shared common migration origin also arrived in the village during the same period.
+    In village A differently from B and C the effect of family farming engagement is not significant in the full model.The possible reason for this is that being engaged in family farming is partly captured by other parameters that are proxies for the importance of family farming,such as the employment sector before agrarian reform,as most households that were farmers before are still farmers,and by the edge covariance in the two parameters,that describe the family farming employment network.
+    In village B model has the lowest number of significant effects,with only three network statistics showing significant and positive estimates: engaged in family farming,migration wave and village president.It is important to observed they are only homophily effects while there are no edge covariance effects that are significant in the full model.
+    In village C four network statistics result significant: two homophily effects (football,engaged in family farming) and two edge covariance effects (kinship and work for network).Engaged in family farming homophily effect,as in the bivariate model is negative.
+Table 2 Estimated coefficients of village frequent contact network full model
+ 
+Coefficients significance codes: p value<0.001 ‘***’ p value =0.001 ‘**’ p value =0.01 ‘*’ p value = 0.05 ‘.’ 
+    
+    The goodness of fit of the model shows a good level of convergence for village A (Figure 2) and C (Figure 3) and an acceptable level of convergence for village B (Figure 4).This result is important as it shows that the difficulty of modeling village B network cannot be explained by the relative lack of power or size effect.Village B and C have the same dimension but village C specification shows a much better level of convergence.
+Figure 2 Goodness of Fit of village A full model
+ 
+Figure 3 Goodness of Fit of village B full model
+ 
+Figure 4 Goodness of Fit of village C full model
+ 
+
+1.7	Family farming employment as cross-cutting tie
+
+    This subsection shows first by network visualization and second by applying ERGMs that family-farming employment is a form of brokerage.
+    Figure 5,6 and 7 show the different brokering force of family farming employment in connecting different groups defined by kinship.Nodes are colored by origin,kinship ties are red and family farming employment ties are green.The brokering connection is present in the three villages however the number of brokering ties varies across villages.
+    In village A the presence of family farming ties totally changes that network structure of the village (Figure 5).There is a shift from a situation of potential clash between two cohesive unconnected blocks to an integrated system.If we look only at kinship ties we see two distinct and isolated groups being one large endogamous cohesive clan and the other a more polycentric structure where households of different origins are tied together by marriage.
+    Family farming employment ties keep together the two groups in a quite articulate way.The presence of multiple ties between the two groups makes the whole structure less vulnerable to possible tie removal that can separate the two groups.Most of the households are in fact integrated in the system and there are only three households that are left aside.In village A family employment network includes 77% of the households.On a more general scale this also means that many households are able to find their source of employment in the same village where they reside.
+Table 4 Family farming employment network in the three villages
+      
+Village A
+     Village B
+     Village C
+Isolates
+     33%
+     50%
+     54%
+Density
+     0.014
+     0.024
+     0.021
+Average degree
+     1.41
+     0.89
+     0.76
+
+?
+Figure 5 Village A kinship and family farming employment ties
+ 
+    Figure 6 instead illustrates that in village B the situation is different; despite the brokering role of family farming employment between the two main groups,many families are left aside with the percentage of isolates being 50%.In village B there are 45% of the households that declare to make their living mostly out family farming but when it comes to income from family farming the values are mostly below one minimum salary (Table 4.14).This data show that family-farming production is mainly for subsistence and not on a scale that creates the necessity to hire somebody even occasionally to work on his or her plot.There is in fact a quite strong correlation (0.44) between income from family farming and number of households employed in family farming.
+Figure 6 Village B kinship and family farming employment ties
+ 
+    In village C the brokering role of family farming employment is important but vulnerable (Figure 7).There are only three ties that connect the main clan mostly composed by old settlers and their relatives and some of new settlers.The role of family farming is certainly the lowest among the three villages: only 22% of households make their living out of family farming and most of households (57%) live out of a mixture between sugar cane employment and other activities.
+Figure 7 Village C kinship and family farming employment ties
+ 
+
+1.7.1 Family farming as non-redundant tie generator mechanism: results of stepwise models  
+
+    The figure 5,6 and 7 showed that family-farming employment ties are not overlapping with kinship ties.
+This sub-section tests the hypothesis that family-farming employment is non-redundant to the main ties formation mechanisms,namely homophilous traits and kinship network.In order to do so a stepwise approach has been followed.
+The estimates of homophilous traits and other edge covariance effect,which do not decrease significantly,show that the family farming employment edge covariance and homophily effect of family farming are not redundant.
+    The first model is specified with the most important homophilous effect and kinship network edge covariance.The homophily effects in each village model were chosen because they are proxies of each village history.In village A the model is specified with geographical origin and in village B the model is specified with migration wave homophily effect.For comparability matters,in village C,the same model specification has been used for village B.It is important to point out however that in village C model all homophilous traits’ estimates lose their significance when they are added to kinship edge covariance.
+     The second model for each village adds family farming employment as edge covariance.
+    The third model for each village model adds homophilous traits effect of engagement in family farming.
+    The fourth model,after having imputed homophilous traits,the structural terms geometrically weighted edge-wise shared partners and geometrically weighted degree distribution,controls respectively for transitivity and centrality effects,to test if the homophily parameters decrease their significance.
+    The fifth model adds an additional structural term namely,geometrically weighted dyad-wise shared partners was added to test whether it improves the fit of the model.
+    The results of village A’s model (Table 5) show that all of the effects specified are non-overlapping and except for edges they are all positive.Adding to the model edge covariance in kinship network and homophilous traits in family farming,the estimates do not change their value significantly and their sign does not change.
+    Only one parameter,nodematch on family farming,loses significance when controlling for transitivity (geometrically weighted degree distribution and the geometrically weighted edge wise shared partners parameters).Such phenomenon is consistent with literature.Homophily is likely to decrease in the coefficient when a particular share of homophily is due to the force of transitive closure rather than to homophily.This can indicate that A and B have homophilous ties not as a result of homophily but because of triadic closure effects.In other words,first there are homophilous ties with A,and the homophilous tie A has also an homophilous tie with B,and because of closure
+/transitivity,there is another homophilous tie,that is B,but not so much because was homophilous for B in that case,but because A’s first choice was homophilous.The fact that only one parameter (node match family farming) loses significance can be interpreted as a sign that triadic closure is not so strong to capture the other homophily effects,namely geographical origin and the other edge covariance effects.
+Table 5 Estimated coefficients of village A frequent contact network models
+ 
+Coefficients significance codes: p value<0.001 ‘***’ p value =0.001 ‘**’ p value 
+=0.01 ‘*’ p value = 0.05 ‘.’ 
+The goodness of fit plots (Figure 8) is not different from plot of the full model (Figure 2).This shows that reducing the model to a small number of parameters it is able to capture the main social processes that describe the process of network.The fit of the model increases slightly only when adding the structural terms formation (Figure 9 and 10).
+
+Figure 8 Goodness of fit plots of village A stepwise model 3
+ 
+
+Figure 9 Goodness of fit plots of village A stepwise model 4
+ 
+Figure 10 Goodness of fit plots of village A stepwise model 5
+ 
+Table 6 illustrates the estimates of village B four models.Kinship edge covariance parameter loses its significance by adding family farming employment network edge covariance.This result can be explained by the presence of only four dyads linked both by kinship and frequent contact network,and only two dyads connected both by family farming employment and frequent contact network and it can indicate some overlap between kinship edge covariance and family farming employment network.
+    The positive and significant coefficient of family farming homophily effect shows that sharing a common,i.e.being engaged in family farming activity is a non-redundant tie generator mechanism.
+    In this reduced model for village B,controlling for transitive closure (geometrically weighted edge wise shared partners) none of the two homophilous traits loose its significance and the estimates coefficients show only minor changes.Instead the geometrically weighted degree parameter is negative and significant.
+    Model 5,is presented for the purpose of comparing it with the other two villages.However clustering,represented by the alternating terms,as already shown by model 4 is not significant and by adding an additional alternating term makes the model degenerate (Figure 12).
+Table 6 Estimated coefficients of village B frequent contact network models 
+ 
+Coefficients significance codes: p value<0.001 ‘***’ p value =0.001 ‘**’ p value 
+=0.01 ‘*’ p value = 0.05 
+Goodness of Fit plots (Figure 10) shows some difficulties of ERGMs to predict some specific values in the degree distribution such as proportion of nodes with degree 5 and degree 10 as well as the proportion of edges that have 4 edge-wise shared partners.This issue is most probability related to the difficulty of modeling the presence of an almost “caveman structure” (a very cohesive clique where everybody is connected with everybody) surrounded by a sparser network.Even adding the degree distribution term (geometrically weighted degree),the fit of the model does not increase.
+
+Figure 11 Goodness of fit plots of village B stepwise model 3
+ 
+
+Figure 12 Goodness of fit plots of village B stepwise model 4
+ 
+Figure 12 Goodness of fit plots of village B stepwise model 5
+ 
+    
+        Controlling for transitive closure family farming estimates do not lose its significance and the estimate’s coefficients show only minor and not significant changes.
+Table 7 Estimated coefficients of village C frequent contact network models 
+ 
+Coefficients significance codes: p value<0.001 ‘***’ p value =0.001 ‘**’ p value 
+=0.01 ‘*’ p value = 0.05 ‘.’ 
+
+Figure 13 Goodness of fit plots of village C stepwise model 3
+ 
+
+Figure 14 Goodness of fit plots of village C stepwise model 4
+ 
+
+
+
+
+Figure 15 Goodness of fit plots of village C stepwise model 5
+ 
+1.8	Concluding remarks
+    This paper,using the combination of visualization villages’ networks,allowed showing how the substantial variability across villages in households’ attributes and social network features is influenced by recruitment patterns and early organization of villages.
+    The recruitment pattern had an effect on the number of households with previous experience in family farming and on the number of households that already knew each other before the occupation.
+    Village’s early organization influences the selection rule to choose settlers after the period of encampment.Furthermore it influences the creation of collective activities,which favors the interaction between old and new settlers,and the density of kinship network.
+    The use of ERGM models showed that homophily on some households’ attributes and edge covariances are relevant elements in determining links in frequent contact network.The uniform homophily effects that influence ties formation in the frequent contact network are different across villages because they had diverse households’ recruitment patterns and villages’ early organization.
+    The homophily uniform statistics differ across villages: the only parameter that is significant across villages relates to family farming.Engagement in family farming is a mechanism that generates ties among households.Uniform homophily in family farming as main livelihood strategy is a mechanism that generates the presence of ties in the three villages.Family farming employment is non-overlapping to the main social processes generating ties.
+    Edge covariance in kinship is extremely important in village A and C where there were no limits in terms of households that could be linked by kinship in the phase of village creation but less in village B.In this village the social movement limited to five the number of households’ members of the same family that can live in the same village.
+    Village A is the most complex village in terms of networks and the village with the highest family farming production.There are a wider number of factors contributing to network formation while in the other villages there is a smaller number of factors that are able to explain the contact network.In village A same geographical origin,edge covariance in kinship network and employment in family farming are the most important elements to trigger links.The main homophily effect is “common village origin” as some households already knew to each other before coming to the encampment
+    In village B instead it is more difficult to identify what are the generator mechanisms of frequent contact network.In village B the main homophily effect is “common migration wave” because people did not know each other before coming to the village and friendship were created participating to encampment.The other important local configurations are node covariance of village president and engagement in family farming.
+        It was shown that village A is the most similar to scenario 2 of network overlap (presented in chapter one) as the frequent contact network is predicted by the combination of both family farming employment and kinship network that are not completely overlapping.
+    Family farming is an element that in all villages allows supporting the creation of a more integrated network.In village B however it was observed that family-farming employment is overlapping with the main ties’ generator mechanisms.In village C instead family-farming employment is a non-redundant mechanism but the fact that two households are both engaged in family farming refrains from building ties.These two elements can be referred to a role of hierarchy in ties’ creation.
+1.9	References
+Anderson,Wasserman,and Crouch.1999.“A P* Primer: Logit Models for Social Networks.” Social Networks 21: 37–66.
+Arcand,Jean-Louis,and Marcel Fafchamps.2012.“Matching in Community-Based Organizations.” Journal of Development Economics 98 (2): 203–19.
+Bandiera,O.,and I.Rasul.2006.“Social Networks and Technology Adoption in Northern Mozambique.” The Economic Journal 116 (514): 869–902.
+Banerjee,Abhijit,Arun G.Chandrasekhar,Esther Duflo,and Matthew O.Jackson.2012.“The Diffusion of Microfinance.”
+Barr,A.,M.Dekker,and M.Fafchamps.2010a.The Formation of Community Based Organizations in Sub-Saharan Africa: An Analysis of a Quasi-Experiment.African Studies Centre.
+———.2010b.“The Formation of Community Based Organizations in Sub-Saharan Africa: An Analysis of a Quasi-Experiment.”
+Bergamasco,Sonia Maria Pessoa Pereira.1997.“A Realidade Dos Assentamentos Rurais Por Detrás Dos Números.” Estudos Avançados 11 (31): 37–49.doi:10.1590
+/S0103-40141997000300003.
+Chambers,Robert.1983.Rural Development: Putting the Last First.Longman.
+Cooke B.and Kothari U.2001.Participation: The New Tyranny? London; New York: Zed Books.
+Cranmer,Skyler J.,and Bruce A.Desmarais.2011.“Inferential Network Analysis with Exponential Random Graph Models.” Political Analysis 19 (1): 66–86.
+De Wit,Joop,and Erhard Berner.2009.“Progressive Patronage? Municipalities,NGOs,CBOs and the Limits to Slum Dwellers’ Empowerment.” Development and Change 40 (5): 927–47.
+Entwisle,B.,K.Faust,R.R.Rindfuss,and T.Kaneda.2007.“Networks and Contexts: Variation in the Structure of Social Ties.” American Journal of Sociology 112 (5): 1495–1533.
+Erdos,Paul,and Alfréd Rényi.1959.“On Random Graphs.” Publicationes Mathematicae Debrecen 6: 290–97.
+Fafchamps M.,and Gubert F.2007.“The Formation of Risk Sharing Networks.” Journal of Development Economics 83: 326–50.
+Fafchamps M.,La Ferrara E.2012.“Self-Help Groups and Mutual Assistance: Evidence from Urban Kenya.” Economic Development and Cultural Change.
+Fafchamps,Marcel.2006.“Development and Social Capital.” The Journal of Development Studies 42 (7): 1180–98.
+Frank,Ove,and David Strauss.1986.“Markov Graphs.” Journal of the American Statistical Association 81 (395): 832–42.
+Freeman,Linton C.1978.“Centrality in Social Networks Conceptual Clarification.” Social Networks 1 (3): 215–39.
+GOODREAU,STEVEN M.,JAMES A.KITTS,and MARTINA MORRIS.2009.“Birds of a Feather,or Friend of a Friend? Using Exponential Random Graph Models to Investigate Adolescent Social Networks.” Demography 46 (1): 103–25.
+Granovetter,M.1985.“Economic Action and Social Structure: The Problem of Embeddedness.” Readings in Economic Sociology,63–68.
+Handcock,Mark S.,David R.Hunter,T.Butts Carter,Steven M.Goodreau,and Martina Morris.2003.Statnet: Software Tools for the Statistical Modeling of Network Data.http:
+//statnetproject.org.
+Hickey S.,Mohan G.2004.Participation,from Tyranny to Transformation? Exploring New Approaches to Participation in Development.London?;: Zed Books?;
+Hunter,David R.2007.“Curved Exponential Family Models for Social Networks.” Social Networks 29 (2): 216–30.
+Hunter,David R.,Steven M.Goodreau,and Mark S.Handcock.2008.“Goodness of Fit of Social Network Models.” Journal of the American Statistical Association 103 (481).
+———.2013.“Ergm.Userterms: A Template Package for Extending Statnet.” Journal of Statistical Software 52 (2).
+Hunter,David R.,and Mark S.Handcock.2006.“Inference in Curved Exponential Family Models for Networks.” Journal of Computational and Graphical Statistics,no.3: 565.
+Hunter,David R.,Mark S.Handcock,Carter T.Butts,Steven M.Goodreau,and Martina Morris.2008.“Ergm: A Package to Fit,Simulate and Diagnose Exponential-Family Models for Networks.” Journal of Statistical Software 24 (3).http:
+//www.ncbi.nlm.nih.gov/pmc/articles/PMC2743438/.
+Jackson,Matthew O.,and Asher Wolinsky.1996.“A Strategic Model of Social and Economic Networks.” Journal of Economic Theory 71 (1): 44–74.
+Jaimovich,Dany.2011.“Macrostructure and Microstructure: Evidence from Overlapping Village Networks in The Gambia.” Available at SSRN 2208048.http:
+//papers.ssrn.com/sol3/papers.cfm?abstract_id=2208048.
+———.2013.Missing Links,Missing Markets: Internal Exchanges,Reciprocity and External Connections in the Economic Networks of Gambian Villages.MPRA Paper 44080.University Library of Munich,Germany.http:
+//ideas.repec.org/p/pra/mprapa/44080.html.
+Krishnan,Pramila,and Emanuela Sciubba.2009.“Links and Architecture in Village Networks.” Economic Journal 119 (537): 917–49.
+Lehmann,E.L.,and George Casella.1998.Theory of Point Estimation.Springer.
+Lusher,Dean,editor of compilation,Johan,editor of compilation Koskinen,and Garry,editor of compilation Robbins.2013.Exponential Random Graph Models for Social Networks: Theories,Methods,and Applications.Structural Analysis in the Social Sciences.Cambridge?;New York: Cambridge University Press.
+Mansuri,and Vijayendra Rao.2004.“Community-Based and -Driven Development: A Critical Review.” The World Bank Research Observer 19 (1): 1–39.
+McPherson,Miller,Lynn Smith-Lovin,and James M.Cook.2001.“Birds of a Feather: Homophily in Social Networks.” Annual Review of Sociology 27 (January): 415–44.
+Morris,Martina,Mark S Handcock,and David R Hunter.2008.“Specification of Exponential-Family Random Graph Models: Terms and Computational Aspects.” Journal of Statistical Software 24 (4): 1548–7660.
+O’Malley,A James,and Peter V Marsden.2008.“The Analysis of Social Networks.” Health Services & Outcomes Research Methodology 8 (4): 222–69.doi:10.1007
+/s10742-008-0041-z.
+Padgett,John F.,and Paul D.McLean.2006.“Organizational Invention and Elite Transformation: The Birth of Partnership Systems in Renaissance Florence1.” American Journal of Sociology 111 (5): 1463–1568.
+Parkinson,Sarah Elizabeth.2013a.“REINVENTING THE RESISTANCE: ORDER AND VIOLENCE AMONG PALESTINIANS IN LEBANON”.Chicago: University of Chicago.
+———.2013b.“Organizing Rebellion: Rethinking High-Risk Mobilization and Social Networks in War.” American Political Science Review 107 (03): 418–32.
+Pattison,Philippa,and Stanley Wasserman.1999.“Logit Models and Logistic Regressions for Social Networks: II.Multivariate Relations.” British Journal of Mathematical and Statistical Psychology 52 (2): 169–93.doi:10.1348
+/000711099159053.
+Petersen,Roger D.2001.Resistance and Rebellion: Lessons from Eastern Europe.Cambridge University Press.
+Robins,Garry,Jenny M.Lewis,and Peng Wang.2012.“Statistical Network Analysis for Analyzing Policy Networks.” Policy Studies Journal 40 (3): 375–401.
+Robins,Garry,Pip Pattison,Yuval Kalish,and Dean Lusher.2007.“An Introduction to Exponential Random Graph (p*) Models for Social Networks.” Social Networks 29 (2): 173–91.doi:10.1016
+/j.socnet.2006.08.002.
+Scott,John,and Peter J Carrington.2011.Social Network Analysis a Handbook of.London; Thousand Oaks,Calif.; New Delhi: SAGE.
+Snijders,Tom A.B.,Philippa E.Pattison,Garry L.Robins,and Mark S.Handcock.2006.“New Specifications for Exponential Random Graph Models.” Sociological Methodology 36 (1): 99–153.
+Snijders,Tom AB.2002.“Markov Chain Monte Carlo Estimation of Exponential Random Graph Models.” Journal of Social Structure 3 (2): 1–40.
+Wanderley,Maria de NB.2000.“A Valorizaccão Da Agricultura Familiar Ea Reivindicaccão Da Ruralidade No Brasil.” Desenvolvimento E Meio Ambiente 2.
+
+
+
+1.10 Appendix: sensitivity analysis
+
+Village A correlations	
+
+ 
+
+?
+Village A – sensitity analysis
+ 
+?
+
+Village B – correlations
+ 
+  ?
+  Village B sensitivity analysis
+   
+  
+
+
+
+
+Village C – correlations
+
+ 
+
+
+
+
+
+
+
+
+Village C – sensitivity analysis
+ 
+
+
+  “An egocentric network consists of an actor, the other actors in its immediate locality or 
+neighborhood, and the relationships among them.” (O’Malley and Marsden 2008, 224)
+  ‘‘Whole network’’ studies seek to assemble data on relationships in a theoretical population, 
+that is, on the ties linking all units/actors within some bounded social collective, such as all 
+physicians within a medical practice. In such studies, it is essential that clear boundaries or 
+rules of inclusion for units/actors be specified (Laumann et al. 1983)”. (O’Malley and Marsden 
+2008, 225)
+  Command in statnet package in R : edges. “It adds one network statistic to the model equal to 
+the number of edges in the network.” (Morris, Handcock, and Hunter 2008, 3).
+  Command in statnet package in R: nodematch (attrname, diff = FALSE, keep = NULL)). “It 
+counts the number of edges (i, j) for which attribute (i) = attribute (j), p network statistics are 
+added to the model, where p is the number of unique values of the attrname attribute”(Morris, 
+Handcock, and Hunter 2008, 4)
+  Command in statnet package in R: nodecov(attrname) “The attrname argument is a character 
+string giving the name of a quantitative (not categorical) attribute in the network's vertex 
+attribute list. This term adds a single network statistic to the model equaling the sum of 
+attrname(i) and attrname(j) for all edges (i; j) in the network.” (Morris, Handcock, and Hunter 
+2008, 4)
+  Command in statnet package in R: (edgecov (x, attrname = NULL)). “The x argument is a 
+network; the optional argument attrname provides the name of the quantitative edge attribute to 
+use for covariate values (in this case, missing edges in x are assigned a covariate value of zero). 
+This term adds one statistic to the model, equal to the sum of the covariate values for each edge 
+appearing in the network” (Morris, Handcock, and Hunter 2008, 7).
+  Command in statnet package in R: (gwdegree (decay, fixed = FALSE)). “This term adds one 
+network statistic to the model equal to the weighted degree distribution with weight parameter 
+decay. The optional argument fixed indicates whether the scale parameter lambda is to be fit as a 
+curved exponential-family model (see Hunter and Handcock 2006). The default is FALSE, which 
+means the scale parameter is not fixed” (Morris, Handcock, and Hunter 2008, 6–7).
+  Command in statnet package in R: (gwesp (alpha, fixed = FALSE)) inputs in the model “a 
+statistic equal to the geometrically weighted edgewise shared partner distribution with weight 
+parameter alpha. The optional argument fixed indicates whether the scale parameter lambda is 
+to be fit as a curved exponential-family model (see Hunter and Handcock 2006). The default is 
+FALSE, which means the scale parameter is not fixed” (Morris, Handcock, and Hunter 2008, 11). 
+GWESP is defined as the number of unordered pairs {i, j} such that yij= 1 and i and j have exactly 
+k common neighbors (Hunter and Handcock, 2004) .
+  “Homogeneity assumptions, that is, that all counted instances are equiprobable. This is similar 
+to the assumption in linear regression that a covariate’s effect is the same for all observations” 
+(GOODREAU, KITTS, and MORRIS 2009, p. 109).
+  “Degeneracy is an estimation problem associated with models that fit the data poorly. 
+Essentially, degeneracy results from the specification of a model that is so unlikely to have 
+generated the network, that the ERGM cannot be computed. Degeneracy occurs when the model 
+lumps all or most of its probability mass on just one or a few possible graphs. In most cases of 
+degeneracy, disproportionate probability mass is placed either on the complete (fully connected) 
+or empty (entirely unconnected) networks (Handcock 2003)”(Cranmer and Desmarais 2011, 74).
+    
+  edges command in Rstatnet
+  nodematch command in Rstatnet
+  edgecov command in Rstatnet
+  In order to estimate the effect of the network statistic specified in the model on the odds of a 
+new tie occurring it is necessary to take the exponent of the coefficient of the parameter.
+ 
+ 
+ 
+ 
+Carla Inguaggiato, PhD in Local Development and Global Dynamics, University of Trento
+
+
+
+1
+
